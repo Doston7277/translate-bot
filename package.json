@@ -1,0 +1,20 @@
+{
+  "name": "translate-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  },
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.5",
+    "mysql": "^2.18.1",
+    "node-google-translate-skidz": "^1.1.2",
+    "translatte": "^3.0.0"
+  }
+}
